@@ -35,6 +35,7 @@ Technical Details
 * DB – MySQL 5.5 with InnoDB Support
 * Web Server – Apache 2.0
 
+Do not taunt Happy Fun Ball.
 Additional Information
 ======================
 * [Wiki](https://github.com/rapid7/hackazon/wiki)
